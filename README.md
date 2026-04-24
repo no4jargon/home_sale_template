@@ -1,5 +1,7 @@
 # Home Sale Website
 
+<img width="1470" height="793" alt="image" src="https://github.com/user-attachments/assets/e78cef7f-3728-4da4-8e61-f21b47ccdae6" />
+
 This repository contains a simple static site for showcasing items for sale. Items are described with small JSON files and optional images. A Python script converts these descriptions into `data.js`, which is used by the web page.
 
 ## Adding Items
